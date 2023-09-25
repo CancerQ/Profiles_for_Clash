@@ -30,10 +30,10 @@ proxies:
   server: t3.freegradely.xyz
   type: ssr
   udp: true
-- cipher: aes-256-gcm
+- cipher: 2022-blake3-aes-256-gcm
   name: United States Los Angeles 001
-  password: dongtaiwang.com
-  port: 10011
+  password: xrg1Loht/QpRRFr7Mx5xC/XpIAdIEwMF+CuEDeZl2sM=
+  port: 10088
   server: www.dongtaiwang4.com
   type: ss
   udp: true
