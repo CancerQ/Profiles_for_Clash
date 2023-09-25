@@ -32,7 +32,7 @@ proxies:
   udp: true
 - cipher: 2022-blake3-aes-256-gcm
   name: United States Los Angeles 001
-  password: xrg1Loht/QpRRFr7Mx5xC/XpIAdIEwMF+CuEDeZl2sM=
+  password: yWEEHT8PcK0/Waa1d9fk+ZLmJL2mzMLK/QB0u/yhdH8=
   port: 10088
   server: www.dongtaiwang4.com
   type: ss
