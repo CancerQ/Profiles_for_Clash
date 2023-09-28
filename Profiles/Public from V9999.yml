@@ -17,7 +17,7 @@ proxies:
   uuid: c5f81634-cd34-47fa-ace6-69300539e051
   ws-opts:
     headers:
-      Host: dongtaiwang.dtku47.xyz
+      Host: dongtaiwang2.dtku47.xyz
     path: /oX7MJ0Fj/
 - cipher: dummy
   name: United States Los Angeles 000
@@ -33,7 +33,7 @@ proxies:
 - cipher: aes-256-gcm
   name: United States Los Angeles 001
   password: dongtaiwang.com
-  port: 11111
+  port: 10011
   server: www.dongtaiwang4.com
   type: ss
   udp: true
