@@ -14,11 +14,11 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: c5f81634-cd34-47fa-ace6-69300539e051
+  uuid: 838f464d-8024-4470-bb1e-b287ba57ae3a
   ws-opts:
     headers:
-      Host: dongtaiwang2.dtku47.xyz
-    path: /oX7MJ0Fj/
+      Host: dongtaiwang4.dtku47.xyz
+    path: /n3TIpiOP/
 - cipher: dummy
   name: United States Los Angeles 000
   obfs: plain
@@ -33,7 +33,7 @@ proxies:
 - cipher: aes-256-gcm
   name: United States Los Angeles 001
   password: dongtaiwang.com
-  port: 28888
+  port: 11111
   server: www.dongtaiwang4.com
   type: ss
   udp: true
