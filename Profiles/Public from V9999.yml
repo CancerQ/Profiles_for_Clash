@@ -14,10 +14,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 434fbf75-dba6-4b98-a73f-c3c4af383766
+  uuid: f40063ab-92fd-4555-a1d2-fdc0e41fb23a
   ws-opts:
     headers:
-      Host: dongtaiwang6.dtku47.xyz
+      Host: dongtaiwang7.dtku47.xyz
     path: /1IKYjV0r/
 - cipher: dummy
   name: United States Los Angeles 000
