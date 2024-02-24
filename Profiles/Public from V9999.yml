@@ -9,7 +9,7 @@ proxies:
   name: Canada Ottawa 002
   network: ws
   port: 8080
-  server: 23.227.39.11
+  server: 23.227.38.120
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -17,7 +17,7 @@ proxies:
   uuid: 969f1909-c0d3-4c30-813d-3aec5c838b7d
   ws-opts:
     headers:
-      Host: dongtaiwang15.dtku47.xyz
+      Host: dongtaiwang17.dtku47.xyz
     path: /1IKYjV0r/
 - cipher: dummy
   name: United States Kansas City 000
