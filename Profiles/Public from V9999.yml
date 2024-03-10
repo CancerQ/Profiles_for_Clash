@@ -34,7 +34,7 @@ proxies:
   name: United States Los Angeles 001
   password: dongtaiwang.com
   port: 12300
-  server: 74.63.233.73
+  server: 64.31.55.51
   type: ss
   udp: true
 proxy-groups:
